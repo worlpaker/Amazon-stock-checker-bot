@@ -19,13 +19,7 @@ See the requirements file for installation packages;
 
 ### Manual installation of packages
 
->pip install selenium
-
->pip install webdriver-manager 
-
->pip install pandas
-
->pip install openpyxl
+>pip install selenium webdriver-manager pandas openpyxl
 
 ## EXCEL FILE SAMPLE
 ![Excel_File](Excel_file.jpg)
