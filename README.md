@@ -9,8 +9,6 @@
 
 ## INSTALLATION
 
- - This program require python, you must install python first.
-
 See the requirements file for installation packages;
 
 > pip install -r requirements.txt
